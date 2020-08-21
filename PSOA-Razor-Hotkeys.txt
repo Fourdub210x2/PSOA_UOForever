@@ -18,7 +18,7 @@ Spells
 		agility - shift-F
 		strength - ctrl-F
 		
-		plowpouch - f12
+		plowpouch - f1
 		recall home from runebook - f11
 
 Skills (Z,X,C) - this is based on the skills chosen for your character.  
